@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047778a0eb0e5144e8ee33afa31c0c8f, type: 3}
+  m_Name: ProgressionSettings
+  m_EditorClassIdentifier: Assembly-CSharp::WaveSurvival.Progression.ProgressionSettings
+  baseXp: 100
+  exponent: 1.4
+  baseHealth: 100
+  healthPerLevel: 10
+  damageBonusPerLevel: 0.05
+  moveSpeed: 6
+  medkitPrice: 40
